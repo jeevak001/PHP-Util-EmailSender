@@ -1,0 +1,39 @@
+
+body{
+	
+	background: #00897B;
+	text-align: center;
+	color: #FFFFFF;
+	background-repeat: no-repeat;
+}
+#wrapper{
+
+	display: inline-block;
+	width: 800px;
+	height: auto;
+	
+	
+}
+
+.button_display{
+	display: inline-block;
+}
+
+.button{
+
+	font-family: "Georgia",sans-serif;
+	background-color: #004D40;
+	border: 2px solid #E0F2F1;
+	color: #FFFFFF;
+	padding: 10px;
+}
+.button:hover{
+
+	font-family: "Georgia",sans-serif;
+	background-color: #00BCD4;
+	cursor: pointer;
+	border: 2px solid #E0F2F1;
+	text-decoration: underline;
+	color: #FFFFFF;
+	padding: 10px;
+}
